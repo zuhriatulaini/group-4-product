@@ -1,0 +1,112 @@
+.carousel-item {
+  height: 600px;
+}
+.carousel-img {
+  margin-top: -120px;
+}
+#carouselExampleIndicators img {
+  filter: brightness(30%);
+  padding-top: 5rem;
+}
+
+.carousel-item .display-4 {
+  margin-top: -330px;
+}
+
+#carouselExampleIndicators a {
+  background-color: #f23a3a;
+  color: white;
+}
+
+#carouselExampleIndicators a:hover {
+  background-color: #a20a0a;
+}
+
+#jangkauan {
+  background-color: #f2efea;
+}
+
+#footer a {
+  color: white;
+  text-decoration: none;
+}
+
+#footer p {
+  color: white;
+  text-decoration: none;
+}
+
+#navbarNavAltMarkup a {
+  color: grey;
+}
+
+#navbarNavAltMarkup a:hover {
+  color: #e8504e;
+}
+#nav-attribute {
+  color: grey;
+}
+
+#nav-attribute a:hover {
+  color: #e8504e;
+}
+
+#nav-attribute button {
+  background-color: #f23a3a;
+  color: white;
+}
+
+#nav-attribute button:hover {
+  background-color: #aa3a3a;
+  color: beige;
+}
+
+#carouselExampleCaptions a {
+  background-color: #f23a3a;
+  color: white;
+}
+
+#carouselExampleCaptions a:hover {
+  background-color: #a20a0a;
+}
+#deskripsi a {
+  background-color: #f23a3a;
+  color: white;
+}
+#deskripsi a:hover {
+  background-color: #a20a0a;
+}
+#paket button {
+  background-color: #f23a3a;
+}
+#paket button:hover {
+  background-color: #aa3a3a;
+}
+
+#ending button {
+  background-color: #f23a3a;
+}
+#ending button:hover {
+  background-color: #aa3a3a;
+}
+#footer-target a {
+  color: white;
+  text-decoration: none;
+}
+#footer-target a:hover {
+  color: white;
+  text-decoration: underline;
+}
+#alamat {
+  text-decoration: none;
+}
+#alamat:hover {
+  text-decoration: underline;
+}
+#ending a {
+  background-color: #f23a3a;
+  color: white;
+}
+#ending a:hover {
+  background-color: #a20a0a;
+}
